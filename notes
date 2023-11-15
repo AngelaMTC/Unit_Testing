@@ -1,0 +1,9 @@
+Install requeriments:
+npm install typescript mocha chai @types/mocha @types/chai ts-node --save-dev
+npm install typescript -g
+
+Run the test:
+npm run test.
+
+Learned in:
+https://www.youtube.com/watch?v=tR8Kghw4HpA
